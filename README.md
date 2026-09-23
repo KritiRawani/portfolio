@@ -2,12 +2,16 @@
 
 A premium, fully responsive, interactive, and animated personal portfolio website built for **Kriti Rawani** using **Next.js 15**, **React 19**, **TypeScript**, **Tailwind CSS**, and **Framer Motion**.
 
+[![Live Demo](https://img.shields.io/badge/Live_Portfolio-kritirawani.github.io%2Fportfolio-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://kritirawani.github.io/portfolio/)
+
 [![GitHub Stars](https://img.shields.io/github/stars/KritiRawani/portfolio?style=social)](https://github.com/KritiRawani/portfolio)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-blue?style=flat&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-13-black?style=flat&logo=framer)](https://www.framer.com/motion/)
+
+> 🌐 **Live Website**: [https://kritirawani.github.io/portfolio/](https://kritirawani.github.io/portfolio/)
 
 ---
 
